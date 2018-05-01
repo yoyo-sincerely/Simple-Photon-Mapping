@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.0)
+
+project(ppm)
+
+include_directories(sample_ppm/include/)
+
+file(GLOB PPM_INCLUDES
+	sample_ppm/include/*.h)
+
+file(GLOB PPM_SOURCES
+	sample_ppm/src/*.cpp)
+
+add_executable(ppm 
+	${PPM_INCLUDES}
+	${PPM_SOURCES}
+	)
+

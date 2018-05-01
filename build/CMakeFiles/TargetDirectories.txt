@@ -1,0 +1,3 @@
+F:/SchoolWork/sample_ppm-master/build/CMakeFiles/ppm.dir
+F:/SchoolWork/sample_ppm-master/build/CMakeFiles/ALL_BUILD.dir
+F:/SchoolWork/sample_ppm-master/build/CMakeFiles/ZERO_CHECK.dir
